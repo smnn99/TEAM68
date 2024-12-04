@@ -1,5 +1,4 @@
-# News Article Sentiment Analysis Web
-## TEAM68
+# News Article Sentiment Analysis Web -TEAM68
 
 This project is a web application that accepts the title or content of a news article and analyzes its sentiment (positive, negative, neutral). It is implemented easily using Hugging Face's `Transformers` library and `Streamlit`.
 
