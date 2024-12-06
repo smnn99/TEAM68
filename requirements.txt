@@ -1,0 +1,12 @@
+# requirements.txt for the sentiment analysis project
+# Note: Rust is required for building the 'tokenizers' library during installation.
+# Please make sure to install Rust (https://rustup.rs/) before running the project.
+
+# 뉴스 기사 분위기 파악 프로젝트를 위한 requirements.txt
+# 주의: 'tokenizers' 라이브러리 설치 시 Rust가 필요합니다.
+# 프로젝트 실행 전에 반드시 Rust를 설치해 주세요. (https://rustup.rs/)
+
+transformers==4.35.0
+streamlit==1.25.0
+torch==2.2.0
+numpy==1.26.4
