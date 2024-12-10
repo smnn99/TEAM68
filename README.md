@@ -1,6 +1,6 @@
 # News Article Sentiment Analysis Web - TEAM68
 
-This project is a web application that accepts the title or content of a news article and analyzes its sentiment (positive, negative, neutral). It is implemented using HuggingFace's pre-trained models for simplicity and accuracy.
+This project is a web application that accepts the title or content of a news article and analyzes its sentiment (positive, negative). It is implemented using HuggingFace's pre-trained models for simplicity and accuracy.
 
 ## Features
 - Sentiment analysis for news articles based on their title or content.
