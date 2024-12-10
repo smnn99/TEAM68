@@ -28,7 +28,7 @@ model = load_model()
 
 # 앱 인터페이스
 st.title("뉴스 기사 감성 분석 애플리케이션")
-st.markdown("뉴스 기사의 제목이나 내용을 입력하고, 감성을 분석하세요.")
+st.markdown("뉴스 기사의 제목이나 내용을 입력하고, 분위기를 분석하세요.")
 
 # 사용자 입력
 user_input = st.text_area("뉴스 제목 또는 내용을 입력하세요:", height=200)
