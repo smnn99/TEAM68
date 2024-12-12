@@ -23,6 +23,13 @@ This project is a web application that accepts the title or content of a news ar
 - **Model**:
   - distilbert-base-uncased-finetuned-sst-2-english: A lightweight and fine-tuned BERT model for sentiment analysis.
 
+## Install the Library & Command to run 
+```
+  pip install -r requirements.txt
+```
+```
+  streamlit run app.py
+```
 
 ## Demo
 Below is a demo screenshot of analyzing sample news articles:
@@ -54,3 +61,11 @@ Here are some of the URLs of the analyzed news articles:
 - [김서연](https://github.com/seoyeon145)
 - [김도현](https://github.com/KDH122)
 - [송지민](https://github.com/jimin123456)
+
+
+## Reference
+Code Reference  
+<https://github.com/petercunha/Emotion/tree/master](https://www.nltk.org/>
+<https://matplotlib.org/stable/users/explain/quick_start.html#parts-of-a-figure>
+<https://hunseop2772.tistory.com/373>
+
