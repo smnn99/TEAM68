@@ -44,7 +44,7 @@ Here are some of the URLs of the analyzed news articles:
  
     
 ### Future Plans
-- Add multilingual support (e.g., Korean, Japanese).
+- Add multilingual support.
 - Improve model inference speed for larger inputs.
 - Deploy the application to cloud platforms (e.g., AWS, Heroku).
 
