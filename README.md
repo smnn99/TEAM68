@@ -26,7 +26,7 @@ This project is a web application that accepts the title or content of a news ar
 
 ## Demo
 Below is a demo screenshot of analyzing sample news articles:
-![Demo Screenshot](https://raw.githubusercontent.com/smnn99/TEAM68/main/demo_images/demo_screenshot.png)
+![Demo Screenshot](https://github.com/smnn99/TEAM68/tree/main/demo_images)
 
 
 Here are some of the URLs of the analyzed news articles:
